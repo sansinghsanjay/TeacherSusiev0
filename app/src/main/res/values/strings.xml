@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Teacher Susie v0</string>
+    <string name="action_settings">Settings</string>
+    <string name="mainActivity_buttonAddQ">ADD Q</string>
+    <string name="mainActivity_buttonTraverseSeq">TRAVERSE SEQ</string>
+    <string name="mainActivity_buttonTraverseRand">TRAVERSE RAND</string>
+    <string name="mainActivity_buttonTraverseTopicSeq">TRAVERSE TOPIC SEQ</string>
+    <string name="mainActivity_buttonTraverseTopicRand">TRAVERSE TOPIC RAND</string>
+    <string name="mainActivity_buttonSearch">SEARCH</string>
+    <string name="mainActivity_buttonExport">EXPORT</string>
+    <string name="mainActivity_buttonImport">IMPORT</string>
+    <string name="mainActivity_buttonTraverseHardQ">TRAVERSE HARD Q</string>
+    <string name="title_activity_add_qa">AddQAActivity</string>
+    <string name="addqaActivity_buttonSave">SAVE</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="testActivity_buttonShowAnswer">SHOW ANS</string>
+    <string name="testActivity_button_nextQuestion">NEXT Q</string>
+    <string name="testActivity_button_prevQuestion">PREV Q</string>
+    <string name="testActivity_button_deleteQuestion">DEL Q</string>
+    <string name="testActivity_button_editQuestion">EDIT Q</string>
+    <string name="testActivity_button_saveQuestion">SAVE Q</string>
+    <string name="title_activity_choose_topic">ChooseTopicActivity</string>
+    <string name="chooseTopicActivity_button_Ok">OK</string>
+    <string name="title_activity_test_hard_q">TestHardQ</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="searchActivity_editText_searchQuery_hint">Search Query</string>
+    <string name="searchActivity_button_search">Search</string>
+    <string name="title_activity_search_results">SearchResultsActivity</string>
+    <string name="title_activity_search_test">SearchTestActivity</string>
+</resources>
